@@ -1,0 +1,14 @@
+.tableWrapper {
+  display: flex;
+  flex-direction: column;
+}
+.buttonConatiner {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 10;
+}
+.button {
+  margin: 0 5px;
+}
